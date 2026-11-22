@@ -33,4 +33,4 @@ A few things worth knowing given this project's nature:
 2. Create `.gitignore` + `.env.example` **before** `git add .`
 3. `git status` → confirm no secrets/pycache → commit → push to a **private** repo.
 
-Want me to continue the build now so you can push a complete, runnable repo in one go? Just say **"continue the build"** and I'll finish dashboard/reports/main/alembic/frontend/edge/simulator/tests in the same format.
+ 
